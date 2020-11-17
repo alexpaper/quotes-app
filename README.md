@@ -1,4 +1,4 @@
-# 📝QUOTES APP (Full, with authentication)
+# 📝QUOTES APP
 Super simple app where you can (CRUD) create, read, update add delete quotes.
 
 You can also like quote. Once.
