@@ -132,6 +132,8 @@ container.prepend(quoteDiv);
 // NEW QUOTE FUNCTION
 // Select form
 const newQuoteForm = document.querySelector('.formNew');
+// New quote event listener
+// newQuoteForm.onsubmit = e => newQuote(e);
 
 const newQuote = async e => {
     try {
